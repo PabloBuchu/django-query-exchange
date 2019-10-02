@@ -1,5 +1,5 @@
 from django.utils.http import urlencode
-from django.core.urlresolvers import reverse
+from django.urls import reverse
 from django.utils.itercompat import is_iterable
 
 
